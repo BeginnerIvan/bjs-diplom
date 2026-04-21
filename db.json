@@ -55,10 +55,82 @@
       "password": "demo",
       "id": 5,
       "balance": {
-        "RUB": 60000,
+        "RUB": 60555,
         "USD": 500,
         "EUR": 600,
         "NTC": 90000
+      }
+    },
+    {
+      "created_at": "2026-04-20T18:47:48.337Z",
+      "login": "monster@mail.ru",
+      "password": "demo",
+      "id": 6,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2026-04-20T18:50:48.837Z",
+      "login": "423",
+      "password": "432",
+      "id": 7,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2026-04-20T18:50:59.539Z",
+      "login": "111",
+      "password": "111",
+      "id": 8,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2026-04-20T18:51:21.152Z",
+      "login": "щшщшщ",
+      "password": "щшщшщш",
+      "id": 9,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2026-04-20T18:53:05.766Z",
+      "login": "=",
+      "password": "=",
+      "id": 10,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2026-04-20T18:54:18.025Z",
+      "login": "321",
+      "password": "321",
+      "id": 11,
+      "balance": {
+        "RUB": 557127.2510464949,
+        "USD": 1e+47,
+        "EUR": 878.3939468517955,
+        "NTC": 289
       }
     }
   ],
@@ -78,6 +150,7 @@
       "1": "Важный пацан",
       "3": "Дедуля",
       "4": "Галя"
-    }
+    },
+    "11": {}
   }
 }
